@@ -1,0 +1,137 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+.sub{
+    border: 2px solid black;
+    margin-left: 800px;
+    height: 20vh;
+    width: 150px;
+    padding-top: 50px;
+    right: 0;
+    float: right;
+
+}
+div{
+    border: 2px solid black;
+    width: 1000px;
+    padding: 10px;
+    height: 150vh;
+}
+header{
+    font-size: xx-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+
+}
+.a{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 50%;
+
+}
+.b{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 20%;
+}
+.c{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 76%;
+}
+.d{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 83%;
+}
+.e{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 20%;
+}
+.f{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 27%;
+}
+.g{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 23%;
+}
+.h{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 25%
+}
+.i{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 83%;
+}
+.j{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 69%; 
+}
+.k{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 75%;
+}
+.l{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 82%;
+}
+.m{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 70%;
+}
+.n{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 70%;
+}
+.o{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: dashed;
+    width: 74%;
+}
